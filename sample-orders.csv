@@ -1,0 +1,336 @@
+order_id,date,customer,phone,payment,product,category,qty,price,delivery
+S0001,2026-08-04,Aarav Patil,9853464097,COD,Paracetamol 650,Pain & Fever,1,30,40
+S0002,2026-08-04,Kiran Pawar,9881924865,UPI,ORS Electrolyte,Digestive,1,40,40
+S0003,2026-08-04,Kiran Pawar,9881924865,UPI,Cetirizine 10 mg,Cold & Allergy,3,22,40
+S0003,2026-08-04,Kiran Pawar,9881924865,UPI,ORS Electrolyte,Digestive,3,40,0
+S0003,2026-08-04,Kiran Pawar,9881924865,UPI,Multivitamin,Vitamins,1,180,0
+S0004,2026-08-05,Aarav Patil,9853464097,UPI,Digital Thermometer,Devices,1,150,40
+S0005,2026-08-05,Vikram More,9816480894,UPI,Digital Thermometer,Devices,1,150,40
+S0006,2026-08-05,Vikram More,9816480894,COD,Herbal Cough Syrup,Cold & Allergy,3,85,40
+S0006,2026-08-05,Vikram More,9816480894,COD,Cetirizine 10 mg,Cold & Allergy,3,22,0
+S0006,2026-08-05,Vikram More,9816480894,COD,Antacid Gel,Digestive,1,110,0
+S0007,2026-08-05,Anjali Shinde,9819722233,UPI,Cetirizine 10 mg,Cold & Allergy,1,22,40
+S0007,2026-08-05,Anjali Shinde,9819722233,UPI,Paracetamol 650,Pain & Fever,2,30,0
+S0007,2026-08-05,Anjali Shinde,9819722233,UPI,Antacid Gel,Digestive,3,110,0
+S0008,2026-08-06,Anjali Shinde,9819722233,UPI,Adhesive Bandages,First Aid,1,45,40
+S0008,2026-08-06,Anjali Shinde,9819722233,UPI,Multivitamin,Vitamins,1,180,0
+S0008,2026-08-06,Anjali Shinde,9819722233,UPI,Herbal Cough Syrup,Cold & Allergy,3,85,0
+S0009,2026-08-06,Priya Joshi,9897366946,UPI,Antacid Gel,Digestive,3,110,40
+S0009,2026-08-06,Priya Joshi,9897366946,UPI,Adhesive Bandages,First Aid,2,45,0
+S0009,2026-08-06,Priya Joshi,9897366946,UPI,Herbal Cough Syrup,Cold & Allergy,2,85,0
+S0010,2026-08-06,Sneha Kulkarni,9830246633,UPI,Antiseptic Liquid,First Aid,2,135,40
+S0010,2026-08-06,Sneha Kulkarni,9830246633,UPI,Herbal Cough Syrup,Cold & Allergy,1,85,0
+S0010,2026-08-06,Sneha Kulkarni,9830246633,UPI,Digital Thermometer,Devices,2,150,0
+S0011,2026-08-06,Kiran Pawar,9881924865,UPI,Cetirizine 10 mg,Cold & Allergy,3,22,40
+S0011,2026-08-06,Kiran Pawar,9881924865,UPI,Multivitamin,Vitamins,2,180,0
+S0011,2026-08-06,Kiran Pawar,9881924865,UPI,Herbal Cough Syrup,Cold & Allergy,3,85,0
+S0012,2026-08-07,Meera Gokhale,9822633920,UPI,Antacid Gel,Digestive,2,110,40
+S0013,2026-08-07,Sneha Kulkarni,9830246633,UPI,Antacid Gel,Digestive,3,110,40
+S0013,2026-08-07,Sneha Kulkarni,9830246633,UPI,Adhesive Bandages,First Aid,2,45,0
+S0013,2026-08-07,Sneha Kulkarni,9830246633,UPI,Herbal Cough Syrup,Cold & Allergy,3,85,0
+S0014,2026-08-07,Anjali Shinde,9819722233,UPI,Multivitamin,Vitamins,3,180,40
+S0014,2026-08-07,Anjali Shinde,9819722233,UPI,Herbal Cough Syrup,Cold & Allergy,1,85,0
+S0015,2026-08-07,Meera Gokhale,9822633920,UPI,Antacid Gel,Digestive,1,110,40
+S0016,2026-08-08,Kiran Pawar,9881924865,UPI,Cetirizine 10 mg,Cold & Allergy,2,22,40
+S0016,2026-08-08,Kiran Pawar,9881924865,UPI,Herbal Cough Syrup,Cold & Allergy,2,85,0
+S0017,2026-08-08,Vikram More,9816480894,UPI,Digital Thermometer,Devices,3,150,40
+S0017,2026-08-08,Vikram More,9816480894,UPI,Antacid Gel,Digestive,2,110,0
+S0018,2026-08-09,Kiran Pawar,9881924865,UPI,Cetirizine 10 mg,Cold & Allergy,1,22,40
+S0019,2026-08-09,Rohan Deshmukh,9862992312,UPI,ORS Electrolyte,Digestive,3,40,40
+S0019,2026-08-09,Rohan Deshmukh,9862992312,UPI,Paracetamol 650,Pain & Fever,1,30,0
+S0019,2026-08-09,Rohan Deshmukh,9862992312,UPI,Digital Thermometer,Devices,2,150,0
+S0020,2026-08-09,Vikram More,9816480894,UPI,Antiseptic Liquid,First Aid,3,135,40
+S0021,2026-08-10,Anjali Shinde,9819722233,UPI,Digital Thermometer,Devices,3,150,40
+S0021,2026-08-10,Anjali Shinde,9819722233,UPI,Paracetamol 650,Pain & Fever,3,30,0
+S0021,2026-08-10,Anjali Shinde,9819722233,UPI,ORS Electrolyte,Digestive,2,40,0
+S0022,2026-08-10,Kiran Pawar,9881924865,UPI,Cetirizine 10 mg,Cold & Allergy,3,22,40
+S0022,2026-08-10,Kiran Pawar,9881924865,UPI,Adhesive Bandages,First Aid,2,45,0
+S0023,2026-08-10,Aarav Patil,9853464097,UPI,ORS Electrolyte,Digestive,2,40,40
+S0024,2026-08-11,Sneha Kulkarni,9830246633,UPI,Paracetamol 650,Pain & Fever,3,30,40
+S0024,2026-08-11,Sneha Kulkarni,9830246633,UPI,Cetirizine 10 mg,Cold & Allergy,1,22,0
+S0024,2026-08-11,Sneha Kulkarni,9830246633,UPI,Digital Thermometer,Devices,3,150,0
+S0025,2026-08-11,Sneha Kulkarni,9830246633,UPI,Paracetamol 650,Pain & Fever,1,30,40
+S0025,2026-08-11,Sneha Kulkarni,9830246633,UPI,Cetirizine 10 mg,Cold & Allergy,3,22,0
+S0025,2026-08-11,Sneha Kulkarni,9830246633,UPI,Antiseptic Liquid,First Aid,2,135,0
+S0026,2026-08-12,Vikram More,9816480894,UPI,Multivitamin,Vitamins,1,180,40
+S0026,2026-08-12,Vikram More,9816480894,UPI,Adhesive Bandages,First Aid,2,45,0
+S0026,2026-08-12,Vikram More,9816480894,UPI,Paracetamol 650,Pain & Fever,2,30,0
+S0027,2026-08-12,Meera Gokhale,9822633920,UPI,Cetirizine 10 mg,Cold & Allergy,1,22,40
+S0027,2026-08-12,Meera Gokhale,9822633920,UPI,Herbal Cough Syrup,Cold & Allergy,3,85,0
+S0028,2026-08-13,Vikram More,9816480894,UPI,Herbal Cough Syrup,Cold & Allergy,3,85,40
+S0028,2026-08-13,Vikram More,9816480894,UPI,Paracetamol 650,Pain & Fever,2,30,0
+S0028,2026-08-13,Vikram More,9816480894,UPI,Cetirizine 10 mg,Cold & Allergy,1,22,0
+S0029,2026-08-13,Aarav Patil,9853464097,COD,Cetirizine 10 mg,Cold & Allergy,3,22,40
+S0029,2026-08-13,Aarav Patil,9853464097,COD,Antacid Gel,Digestive,2,110,0
+S0030,2026-08-13,Rohan Deshmukh,9862992312,UPI,Digital Thermometer,Devices,3,150,40
+S0031,2026-08-14,Priya Joshi,9897366946,COD,ORS Electrolyte,Digestive,2,40,40
+S0032,2026-08-14,Priya Joshi,9897366946,UPI,Adhesive Bandages,First Aid,1,45,40
+S0032,2026-08-14,Priya Joshi,9897366946,UPI,Multivitamin,Vitamins,1,180,0
+S0032,2026-08-14,Priya Joshi,9897366946,UPI,Digital Thermometer,Devices,2,150,0
+S0033,2026-08-14,Meera Gokhale,9822633920,UPI,Multivitamin,Vitamins,2,180,40
+S0034,2026-08-15,Anjali Shinde,9819722233,UPI,Cetirizine 10 mg,Cold & Allergy,1,22,40
+S0035,2026-08-15,Meera Gokhale,9822633920,UPI,ORS Electrolyte,Digestive,3,40,40
+S0035,2026-08-15,Meera Gokhale,9822633920,UPI,Adhesive Bandages,First Aid,3,45,0
+S0036,2026-08-15,Aarav Patil,9853464097,UPI,Multivitamin,Vitamins,3,180,40
+S0036,2026-08-15,Aarav Patil,9853464097,UPI,Cetirizine 10 mg,Cold & Allergy,1,22,0
+S0036,2026-08-15,Aarav Patil,9853464097,UPI,Antiseptic Liquid,First Aid,2,135,0
+S0037,2026-08-16,Meera Gokhale,9822633920,UPI,Multivitamin,Vitamins,3,180,40
+S0037,2026-08-16,Meera Gokhale,9822633920,UPI,Cetirizine 10 mg,Cold & Allergy,2,22,0
+S0038,2026-08-16,Meera Gokhale,9822633920,UPI,Cetirizine 10 mg,Cold & Allergy,1,22,40
+S0038,2026-08-16,Meera Gokhale,9822633920,UPI,Herbal Cough Syrup,Cold & Allergy,1,85,0
+S0038,2026-08-16,Meera Gokhale,9822633920,UPI,Digital Thermometer,Devices,1,150,0
+S0039,2026-08-17,Rohan Deshmukh,9862992312,COD,Adhesive Bandages,First Aid,3,45,40
+S0039,2026-08-17,Rohan Deshmukh,9862992312,COD,Multivitamin,Vitamins,3,180,0
+S0039,2026-08-17,Rohan Deshmukh,9862992312,COD,Cetirizine 10 mg,Cold & Allergy,1,22,0
+S0040,2026-08-17,Aarav Patil,9853464097,UPI,Cetirizine 10 mg,Cold & Allergy,1,22,40
+S0040,2026-08-17,Aarav Patil,9853464097,UPI,Herbal Cough Syrup,Cold & Allergy,1,85,0
+S0040,2026-08-17,Aarav Patil,9853464097,UPI,ORS Electrolyte,Digestive,1,40,0
+S0041,2026-08-17,Vikram More,9816480894,UPI,Digital Thermometer,Devices,3,150,40
+S0041,2026-08-17,Vikram More,9816480894,UPI,ORS Electrolyte,Digestive,2,40,0
+S0042,2026-08-17,Vikram More,9816480894,COD,Herbal Cough Syrup,Cold & Allergy,3,85,40
+S0042,2026-08-17,Vikram More,9816480894,COD,Paracetamol 650,Pain & Fever,2,30,0
+S0043,2026-08-18,Kiran Pawar,9881924865,COD,Digital Thermometer,Devices,1,150,40
+S0044,2026-08-18,Aarav Patil,9853464097,UPI,Paracetamol 650,Pain & Fever,1,30,40
+S0045,2026-08-18,Rohan Deshmukh,9862992312,UPI,Cetirizine 10 mg,Cold & Allergy,2,22,40
+S0045,2026-08-18,Rohan Deshmukh,9862992312,UPI,Paracetamol 650,Pain & Fever,3,30,0
+S0046,2026-08-18,Meera Gokhale,9822633920,UPI,Paracetamol 650,Pain & Fever,2,30,40
+S0046,2026-08-18,Meera Gokhale,9822633920,UPI,ORS Electrolyte,Digestive,1,40,0
+S0046,2026-08-18,Meera Gokhale,9822633920,UPI,Cetirizine 10 mg,Cold & Allergy,1,22,0
+S0047,2026-08-19,Aarav Patil,9853464097,UPI,Multivitamin,Vitamins,3,180,40
+S0047,2026-08-19,Aarav Patil,9853464097,UPI,ORS Electrolyte,Digestive,2,40,0
+S0048,2026-08-19,Meera Gokhale,9822633920,COD,Adhesive Bandages,First Aid,3,45,40
+S0048,2026-08-19,Meera Gokhale,9822633920,COD,ORS Electrolyte,Digestive,2,40,0
+S0048,2026-08-19,Meera Gokhale,9822633920,COD,Multivitamin,Vitamins,3,180,0
+S0049,2026-08-19,Priya Joshi,9897366946,UPI,Antiseptic Liquid,First Aid,1,135,40
+S0050,2026-08-19,Kiran Pawar,9881924865,UPI,Cetirizine 10 mg,Cold & Allergy,2,22,40
+S0050,2026-08-19,Kiran Pawar,9881924865,UPI,ORS Electrolyte,Digestive,1,40,0
+S0051,2026-08-20,Vikram More,9816480894,UPI,Multivitamin,Vitamins,1,180,40
+S0052,2026-08-20,Vikram More,9816480894,UPI,ORS Electrolyte,Digestive,2,40,40
+S0052,2026-08-20,Vikram More,9816480894,UPI,Cetirizine 10 mg,Cold & Allergy,2,22,0
+S0053,2026-08-21,Priya Joshi,9897366946,UPI,Antiseptic Liquid,First Aid,2,135,40
+S0053,2026-08-21,Priya Joshi,9897366946,UPI,Digital Thermometer,Devices,1,150,0
+S0053,2026-08-21,Priya Joshi,9897366946,UPI,Herbal Cough Syrup,Cold & Allergy,2,85,0
+S0054,2026-08-21,Anjali Shinde,9819722233,UPI,Multivitamin,Vitamins,3,180,40
+S0054,2026-08-21,Anjali Shinde,9819722233,UPI,Paracetamol 650,Pain & Fever,2,30,0
+S0054,2026-08-21,Anjali Shinde,9819722233,UPI,Herbal Cough Syrup,Cold & Allergy,2,85,0
+S0055,2026-08-22,Kiran Pawar,9881924865,UPI,Antacid Gel,Digestive,1,110,40
+S0055,2026-08-22,Kiran Pawar,9881924865,UPI,Cetirizine 10 mg,Cold & Allergy,1,22,0
+S0055,2026-08-22,Kiran Pawar,9881924865,UPI,Paracetamol 650,Pain & Fever,1,30,0
+S0056,2026-08-23,Vikram More,9816480894,UPI,Antacid Gel,Digestive,1,110,40
+S0057,2026-08-23,Kiran Pawar,9881924865,COD,Antiseptic Liquid,First Aid,3,135,40
+S0057,2026-08-23,Kiran Pawar,9881924865,COD,Herbal Cough Syrup,Cold & Allergy,3,85,0
+S0058,2026-08-23,Meera Gokhale,9822633920,COD,Cetirizine 10 mg,Cold & Allergy,1,22,40
+S0058,2026-08-23,Meera Gokhale,9822633920,COD,Antacid Gel,Digestive,3,110,0
+S0059,2026-08-24,Kiran Pawar,9881924865,UPI,Paracetamol 650,Pain & Fever,2,30,40
+S0059,2026-08-24,Kiran Pawar,9881924865,UPI,Cetirizine 10 mg,Cold & Allergy,1,22,0
+S0060,2026-08-24,Priya Joshi,9897366946,UPI,Cetirizine 10 mg,Cold & Allergy,1,22,40
+S0060,2026-08-24,Priya Joshi,9897366946,UPI,Adhesive Bandages,First Aid,2,45,0
+S0061,2026-08-25,Vikram More,9816480894,COD,Paracetamol 650,Pain & Fever,3,30,40
+S0062,2026-08-25,Priya Joshi,9897366946,UPI,Antacid Gel,Digestive,1,110,40
+S0063,2026-08-25,Rohan Deshmukh,9862992312,UPI,Antacid Gel,Digestive,2,110,40
+S0063,2026-08-25,Rohan Deshmukh,9862992312,UPI,ORS Electrolyte,Digestive,2,40,0
+S0064,2026-08-25,Rohan Deshmukh,9862992312,UPI,Paracetamol 650,Pain & Fever,1,30,40
+S0064,2026-08-25,Rohan Deshmukh,9862992312,UPI,Antacid Gel,Digestive,1,110,0
+S0065,2026-08-26,Priya Joshi,9897366946,COD,ORS Electrolyte,Digestive,1,40,40
+S0065,2026-08-26,Priya Joshi,9897366946,COD,Adhesive Bandages,First Aid,3,45,0
+S0066,2026-08-27,Meera Gokhale,9822633920,COD,Digital Thermometer,Devices,3,150,40
+S0066,2026-08-27,Meera Gokhale,9822633920,COD,Antacid Gel,Digestive,1,110,0
+S0067,2026-08-27,Priya Joshi,9897366946,UPI,Herbal Cough Syrup,Cold & Allergy,2,85,40
+S0068,2026-08-27,Anjali Shinde,9819722233,UPI,Paracetamol 650,Pain & Fever,1,30,40
+S0069,2026-08-27,Vikram More,9816480894,UPI,Paracetamol 650,Pain & Fever,1,30,40
+S0070,2026-08-28,Vikram More,9816480894,COD,Antacid Gel,Digestive,1,110,40
+S0071,2026-08-28,Meera Gokhale,9822633920,UPI,Antacid Gel,Digestive,2,110,40
+S0072,2026-08-28,Aarav Patil,9853464097,UPI,Multivitamin,Vitamins,1,180,40
+S0072,2026-08-28,Aarav Patil,9853464097,UPI,Digital Thermometer,Devices,1,150,0
+S0073,2026-08-28,Vikram More,9816480894,UPI,Herbal Cough Syrup,Cold & Allergy,2,85,40
+S0073,2026-08-28,Vikram More,9816480894,UPI,Paracetamol 650,Pain & Fever,2,30,0
+S0074,2026-08-29,Meera Gokhale,9822633920,UPI,ORS Electrolyte,Digestive,1,40,40
+S0074,2026-08-29,Meera Gokhale,9822633920,UPI,Digital Thermometer,Devices,1,150,0
+S0074,2026-08-29,Meera Gokhale,9822633920,UPI,Antacid Gel,Digestive,2,110,0
+S0075,2026-08-30,Rohan Deshmukh,9862992312,UPI,Paracetamol 650,Pain & Fever,2,30,40
+S0075,2026-08-30,Rohan Deshmukh,9862992312,UPI,Antiseptic Liquid,First Aid,2,135,0
+S0075,2026-08-30,Rohan Deshmukh,9862992312,UPI,Digital Thermometer,Devices,3,150,0
+S0076,2026-08-31,Sneha Kulkarni,9830246633,COD,Herbal Cough Syrup,Cold & Allergy,2,85,40
+S0076,2026-08-31,Sneha Kulkarni,9830246633,COD,Antiseptic Liquid,First Aid,3,135,0
+S0076,2026-08-31,Sneha Kulkarni,9830246633,COD,Adhesive Bandages,First Aid,2,45,0
+S0077,2026-08-31,Rohan Deshmukh,9862992312,UPI,Herbal Cough Syrup,Cold & Allergy,3,85,40
+S0077,2026-08-31,Rohan Deshmukh,9862992312,UPI,Paracetamol 650,Pain & Fever,3,30,0
+S0077,2026-08-31,Rohan Deshmukh,9862992312,UPI,Antiseptic Liquid,First Aid,3,135,0
+S0078,2026-09-01,Rohan Deshmukh,9862992312,COD,Paracetamol 650,Pain & Fever,1,30,40
+S0078,2026-09-01,Rohan Deshmukh,9862992312,COD,ORS Electrolyte,Digestive,1,40,0
+S0078,2026-09-01,Rohan Deshmukh,9862992312,COD,Digital Thermometer,Devices,1,150,0
+S0079,2026-09-01,Anjali Shinde,9819722233,UPI,Adhesive Bandages,First Aid,3,45,40
+S0079,2026-09-01,Anjali Shinde,9819722233,UPI,Paracetamol 650,Pain & Fever,1,30,0
+S0080,2026-09-01,Priya Joshi,9897366946,UPI,Paracetamol 650,Pain & Fever,1,30,40
+S0080,2026-09-01,Priya Joshi,9897366946,UPI,Adhesive Bandages,First Aid,3,45,0
+S0081,2026-09-01,Sneha Kulkarni,9830246633,COD,Cetirizine 10 mg,Cold & Allergy,1,22,40
+S0081,2026-09-01,Sneha Kulkarni,9830246633,COD,Adhesive Bandages,First Aid,2,45,0
+S0081,2026-09-01,Sneha Kulkarni,9830246633,COD,Herbal Cough Syrup,Cold & Allergy,1,85,0
+S0082,2026-09-02,Priya Joshi,9897366946,COD,Adhesive Bandages,First Aid,2,45,40
+S0082,2026-09-02,Priya Joshi,9897366946,COD,Digital Thermometer,Devices,1,150,0
+S0082,2026-09-02,Priya Joshi,9897366946,COD,Antiseptic Liquid,First Aid,2,135,0
+S0083,2026-09-02,Vikram More,9816480894,UPI,ORS Electrolyte,Digestive,1,40,40
+S0083,2026-09-02,Vikram More,9816480894,UPI,Cetirizine 10 mg,Cold & Allergy,2,22,0
+S0083,2026-09-02,Vikram More,9816480894,UPI,Antacid Gel,Digestive,2,110,0
+S0084,2026-09-03,Rohan Deshmukh,9862992312,UPI,Paracetamol 650,Pain & Fever,2,30,40
+S0084,2026-09-03,Rohan Deshmukh,9862992312,UPI,Adhesive Bandages,First Aid,3,45,0
+S0085,2026-09-03,Sneha Kulkarni,9830246633,COD,Adhesive Bandages,First Aid,2,45,40
+S0086,2026-09-03,Vikram More,9816480894,UPI,Adhesive Bandages,First Aid,3,45,40
+S0086,2026-09-03,Vikram More,9816480894,UPI,Cetirizine 10 mg,Cold & Allergy,1,22,0
+S0087,2026-09-04,Sneha Kulkarni,9830246633,UPI,Antacid Gel,Digestive,2,110,40
+S0088,2026-09-04,Sneha Kulkarni,9830246633,COD,Antacid Gel,Digestive,1,110,40
+S0088,2026-09-04,Sneha Kulkarni,9830246633,COD,Antiseptic Liquid,First Aid,1,135,0
+S0089,2026-09-04,Sneha Kulkarni,9830246633,COD,Herbal Cough Syrup,Cold & Allergy,3,85,40
+S0090,2026-09-05,Anjali Shinde,9819722233,UPI,Digital Thermometer,Devices,3,150,40
+S0090,2026-09-05,Anjali Shinde,9819722233,UPI,Antacid Gel,Digestive,2,110,0
+S0090,2026-09-05,Anjali Shinde,9819722233,UPI,Paracetamol 650,Pain & Fever,1,30,0
+S0091,2026-09-05,Meera Gokhale,9822633920,UPI,Paracetamol 650,Pain & Fever,1,30,40
+S0091,2026-09-05,Meera Gokhale,9822633920,UPI,Herbal Cough Syrup,Cold & Allergy,2,85,0
+S0092,2026-09-05,Meera Gokhale,9822633920,UPI,Herbal Cough Syrup,Cold & Allergy,2,85,40
+S0092,2026-09-05,Meera Gokhale,9822633920,UPI,Antiseptic Liquid,First Aid,2,135,0
+S0093,2026-09-06,Sneha Kulkarni,9830246633,UPI,Multivitamin,Vitamins,2,180,40
+S0094,2026-09-06,Kiran Pawar,9881924865,UPI,Paracetamol 650,Pain & Fever,3,30,40
+S0095,2026-09-06,Vikram More,9816480894,UPI,Cetirizine 10 mg,Cold & Allergy,2,22,40
+S0095,2026-09-06,Vikram More,9816480894,UPI,Antiseptic Liquid,First Aid,3,135,0
+S0096,2026-09-07,Anjali Shinde,9819722233,UPI,Paracetamol 650,Pain & Fever,1,30,40
+S0096,2026-09-07,Anjali Shinde,9819722233,UPI,Antacid Gel,Digestive,1,110,0
+S0097,2026-09-08,Rohan Deshmukh,9862992312,UPI,Antiseptic Liquid,First Aid,1,135,40
+S0097,2026-09-08,Rohan Deshmukh,9862992312,UPI,Multivitamin,Vitamins,2,180,0
+S0098,2026-09-08,Kiran Pawar,9881924865,UPI,Antiseptic Liquid,First Aid,1,135,40
+S0098,2026-09-08,Kiran Pawar,9881924865,UPI,ORS Electrolyte,Digestive,1,40,0
+S0098,2026-09-08,Kiran Pawar,9881924865,UPI,Multivitamin,Vitamins,3,180,0
+S0099,2026-09-08,Kiran Pawar,9881924865,UPI,Herbal Cough Syrup,Cold & Allergy,1,85,40
+S0099,2026-09-08,Kiran Pawar,9881924865,UPI,Antacid Gel,Digestive,3,110,0
+S0099,2026-09-08,Kiran Pawar,9881924865,UPI,ORS Electrolyte,Digestive,1,40,0
+S0100,2026-09-09,Meera Gokhale,9822633920,UPI,Antacid Gel,Digestive,2,110,40
+S0100,2026-09-09,Meera Gokhale,9822633920,UPI,Digital Thermometer,Devices,3,150,0
+S0101,2026-09-09,Vikram More,9816480894,UPI,ORS Electrolyte,Digestive,3,40,40
+S0101,2026-09-09,Vikram More,9816480894,UPI,Antacid Gel,Digestive,3,110,0
+S0101,2026-09-09,Vikram More,9816480894,UPI,Digital Thermometer,Devices,2,150,0
+S0102,2026-09-10,Rohan Deshmukh,9862992312,COD,Cetirizine 10 mg,Cold & Allergy,1,22,40
+S0103,2026-09-11,Priya Joshi,9897366946,UPI,Adhesive Bandages,First Aid,1,45,40
+S0103,2026-09-11,Priya Joshi,9897366946,UPI,Antiseptic Liquid,First Aid,3,135,0
+S0104,2026-09-11,Priya Joshi,9897366946,UPI,Herbal Cough Syrup,Cold & Allergy,2,85,40
+S0105,2026-09-11,Sneha Kulkarni,9830246633,UPI,Multivitamin,Vitamins,2,180,40
+S0106,2026-09-11,Priya Joshi,9897366946,UPI,Antiseptic Liquid,First Aid,3,135,40
+S0106,2026-09-11,Priya Joshi,9897366946,UPI,Digital Thermometer,Devices,3,150,0
+S0106,2026-09-11,Priya Joshi,9897366946,UPI,ORS Electrolyte,Digestive,1,40,0
+S0107,2026-09-12,Vikram More,9816480894,UPI,Adhesive Bandages,First Aid,2,45,40
+S0108,2026-09-12,Anjali Shinde,9819722233,UPI,Digital Thermometer,Devices,2,150,40
+S0108,2026-09-12,Anjali Shinde,9819722233,UPI,ORS Electrolyte,Digestive,1,40,0
+S0108,2026-09-12,Anjali Shinde,9819722233,UPI,Paracetamol 650,Pain & Fever,2,30,0
+S0109,2026-09-12,Kiran Pawar,9881924865,COD,Antiseptic Liquid,First Aid,1,135,40
+S0109,2026-09-12,Kiran Pawar,9881924865,COD,Antacid Gel,Digestive,1,110,0
+S0110,2026-09-12,Aarav Patil,9853464097,UPI,Adhesive Bandages,First Aid,1,45,40
+S0110,2026-09-12,Aarav Patil,9853464097,UPI,Digital Thermometer,Devices,2,150,0
+S0110,2026-09-12,Aarav Patil,9853464097,UPI,Paracetamol 650,Pain & Fever,3,30,0
+S0111,2026-09-13,Meera Gokhale,9822633920,UPI,ORS Electrolyte,Digestive,1,40,40
+S0112,2026-09-13,Rohan Deshmukh,9862992312,COD,Cetirizine 10 mg,Cold & Allergy,3,22,40
+S0112,2026-09-13,Rohan Deshmukh,9862992312,COD,Adhesive Bandages,First Aid,1,45,0
+S0112,2026-09-13,Rohan Deshmukh,9862992312,COD,Paracetamol 650,Pain & Fever,1,30,0
+S0113,2026-09-13,Rohan Deshmukh,9862992312,UPI,Paracetamol 650,Pain & Fever,3,30,40
+S0113,2026-09-13,Rohan Deshmukh,9862992312,UPI,Antacid Gel,Digestive,2,110,0
+S0113,2026-09-13,Rohan Deshmukh,9862992312,UPI,Cetirizine 10 mg,Cold & Allergy,3,22,0
+S0114,2026-09-13,Kiran Pawar,9881924865,COD,Cetirizine 10 mg,Cold & Allergy,1,22,40
+S0115,2026-09-14,Priya Joshi,9897366946,UPI,ORS Electrolyte,Digestive,1,40,40
+S0115,2026-09-14,Priya Joshi,9897366946,UPI,Paracetamol 650,Pain & Fever,3,30,0
+S0116,2026-09-14,Vikram More,9816480894,UPI,Multivitamin,Vitamins,2,180,40
+S0116,2026-09-14,Vikram More,9816480894,UPI,ORS Electrolyte,Digestive,3,40,0
+S0117,2026-09-14,Priya Joshi,9897366946,COD,Paracetamol 650,Pain & Fever,2,30,40
+S0118,2026-09-15,Aarav Patil,9853464097,UPI,Adhesive Bandages,First Aid,3,45,40
+S0119,2026-09-15,Kiran Pawar,9881924865,UPI,ORS Electrolyte,Digestive,2,40,40
+S0119,2026-09-15,Kiran Pawar,9881924865,UPI,Antiseptic Liquid,First Aid,1,135,0
+S0120,2026-09-15,Meera Gokhale,9822633920,UPI,Multivitamin,Vitamins,3,180,40
+S0120,2026-09-15,Meera Gokhale,9822633920,UPI,Antiseptic Liquid,First Aid,2,135,0
+S0120,2026-09-15,Meera Gokhale,9822633920,UPI,Herbal Cough Syrup,Cold & Allergy,1,85,0
+S0121,2026-09-16,Vikram More,9816480894,COD,Cetirizine 10 mg,Cold & Allergy,1,22,40
+S0121,2026-09-16,Vikram More,9816480894,COD,ORS Electrolyte,Digestive,2,40,0
+S0121,2026-09-16,Vikram More,9816480894,COD,Adhesive Bandages,First Aid,1,45,0
+S0122,2026-09-17,Meera Gokhale,9822633920,UPI,Antacid Gel,Digestive,3,110,40
+S0122,2026-09-17,Meera Gokhale,9822633920,UPI,Cetirizine 10 mg,Cold & Allergy,2,22,0
+S0123,2026-09-17,Rohan Deshmukh,9862992312,UPI,Antiseptic Liquid,First Aid,3,135,40
+S0123,2026-09-17,Rohan Deshmukh,9862992312,UPI,Paracetamol 650,Pain & Fever,1,30,0
+S0124,2026-09-18,Aarav Patil,9853464097,UPI,Herbal Cough Syrup,Cold & Allergy,2,85,40
+S0125,2026-09-18,Aarav Patil,9853464097,COD,Herbal Cough Syrup,Cold & Allergy,2,85,40
+S0126,2026-09-18,Meera Gokhale,9822633920,COD,Cetirizine 10 mg,Cold & Allergy,1,22,40
+S0126,2026-09-18,Meera Gokhale,9822633920,COD,Digital Thermometer,Devices,2,150,0
+S0127,2026-09-18,Priya Joshi,9897366946,UPI,Digital Thermometer,Devices,2,150,40
+S0127,2026-09-18,Priya Joshi,9897366946,UPI,Adhesive Bandages,First Aid,3,45,0
+S0127,2026-09-18,Priya Joshi,9897366946,UPI,Paracetamol 650,Pain & Fever,3,30,0
+S0128,2026-09-19,Anjali Shinde,9819722233,UPI,Herbal Cough Syrup,Cold & Allergy,1,85,40
+S0128,2026-09-19,Anjali Shinde,9819722233,UPI,Cetirizine 10 mg,Cold & Allergy,1,22,0
+S0129,2026-09-19,Vikram More,9816480894,UPI,Antiseptic Liquid,First Aid,3,135,40
+S0129,2026-09-19,Vikram More,9816480894,UPI,Cetirizine 10 mg,Cold & Allergy,1,22,0
+S0130,2026-09-19,Kiran Pawar,9881924865,UPI,Antiseptic Liquid,First Aid,1,135,40
+S0130,2026-09-19,Kiran Pawar,9881924865,UPI,Cetirizine 10 mg,Cold & Allergy,3,22,0
+S0131,2026-09-19,Meera Gokhale,9822633920,UPI,Digital Thermometer,Devices,1,150,40
+S0131,2026-09-19,Meera Gokhale,9822633920,UPI,Adhesive Bandages,First Aid,2,45,0
+S0132,2026-09-20,Meera Gokhale,9822633920,UPI,Antiseptic Liquid,First Aid,3,135,40
+S0132,2026-09-20,Meera Gokhale,9822633920,UPI,ORS Electrolyte,Digestive,2,40,0
+S0132,2026-09-20,Meera Gokhale,9822633920,UPI,Digital Thermometer,Devices,1,150,0
+S0133,2026-09-20,Kiran Pawar,9881924865,UPI,Cetirizine 10 mg,Cold & Allergy,2,22,40
+S0133,2026-09-20,Kiran Pawar,9881924865,UPI,Paracetamol 650,Pain & Fever,1,30,0
+S0134,2026-09-20,Sneha Kulkarni,9830246633,COD,Multivitamin,Vitamins,2,180,40
+S0134,2026-09-20,Sneha Kulkarni,9830246633,COD,Antacid Gel,Digestive,3,110,0
+S0135,2026-09-21,Vikram More,9816480894,COD,Multivitamin,Vitamins,1,180,40
+S0135,2026-09-21,Vikram More,9816480894,COD,Antacid Gel,Digestive,3,110,0
+S0135,2026-09-21,Vikram More,9816480894,COD,Herbal Cough Syrup,Cold & Allergy,3,85,0
+S0136,2026-09-22,Aarav Patil,9853464097,UPI,Adhesive Bandages,First Aid,3,45,40
+S0137,2026-09-23,Kiran Pawar,9881924865,UPI,Adhesive Bandages,First Aid,2,45,40
+S0137,2026-09-23,Kiran Pawar,9881924865,UPI,Herbal Cough Syrup,Cold & Allergy,1,85,0
+S0138,2026-09-23,Aarav Patil,9853464097,COD,Herbal Cough Syrup,Cold & Allergy,2,85,40
+S0138,2026-09-23,Aarav Patil,9853464097,COD,ORS Electrolyte,Digestive,2,40,0
+S0139,2026-09-23,Meera Gokhale,9822633920,UPI,Cetirizine 10 mg,Cold & Allergy,1,22,40
+S0139,2026-09-23,Meera Gokhale,9822633920,UPI,ORS Electrolyte,Digestive,1,40,0
+S0139,2026-09-23,Meera Gokhale,9822633920,UPI,Adhesive Bandages,First Aid,2,45,0
+S0140,2026-09-23,Sneha Kulkarni,9830246633,COD,Adhesive Bandages,First Aid,3,45,40
+S0141,2026-09-24,Rohan Deshmukh,9862992312,UPI,Cetirizine 10 mg,Cold & Allergy,2,22,40
+S0142,2026-09-24,Sneha Kulkarni,9830246633,UPI,Antiseptic Liquid,First Aid,2,135,40
+S0143,2026-09-24,Meera Gokhale,9822633920,UPI,Herbal Cough Syrup,Cold & Allergy,2,85,40
+S0144,2026-09-25,Priya Joshi,9897366946,COD,Cetirizine 10 mg,Cold & Allergy,2,22,40
+S0144,2026-09-25,Priya Joshi,9897366946,COD,Antacid Gel,Digestive,3,110,0
+S0144,2026-09-25,Priya Joshi,9897366946,COD,Herbal Cough Syrup,Cold & Allergy,2,85,0
+S0145,2026-09-25,Anjali Shinde,9819722233,UPI,Antacid Gel,Digestive,1,110,40
+S0145,2026-09-25,Anjali Shinde,9819722233,UPI,ORS Electrolyte,Digestive,1,40,0
+S0145,2026-09-25,Anjali Shinde,9819722233,UPI,Adhesive Bandages,First Aid,1,45,0
+S0146,2026-09-25,Priya Joshi,9897366946,UPI,ORS Electrolyte,Digestive,1,40,40
+S0146,2026-09-25,Priya Joshi,9897366946,UPI,Multivitamin,Vitamins,2,180,0
+S0147,2026-09-25,Vikram More,9816480894,UPI,Digital Thermometer,Devices,1,150,40
+S0147,2026-09-25,Vikram More,9816480894,UPI,ORS Electrolyte,Digestive,3,40,0
+S0147,2026-09-25,Vikram More,9816480894,UPI,Multivitamin,Vitamins,2,180,0
+S0148,2026-09-26,Sneha Kulkarni,9830246633,UPI,ORS Electrolyte,Digestive,2,40,40
+S0148,2026-09-26,Sneha Kulkarni,9830246633,UPI,Adhesive Bandages,First Aid,1,45,0
+S0149,2026-09-27,Priya Joshi,9897366946,UPI,ORS Electrolyte,Digestive,3,40,40
+S0150,2026-09-27,Priya Joshi,9897366946,UPI,Digital Thermometer,Devices,2,150,40
+S0150,2026-09-27,Priya Joshi,9897366946,UPI,Herbal Cough Syrup,Cold & Allergy,3,85,0
+S0151,2026-09-27,Vikram More,9816480894,COD,Cetirizine 10 mg,Cold & Allergy,3,22,40
+S0152,2026-09-28,Priya Joshi,9897366946,UPI,Multivitamin,Vitamins,1,180,40
+S0152,2026-09-28,Priya Joshi,9897366946,UPI,Herbal Cough Syrup,Cold & Allergy,1,85,0
+S0153,2026-09-28,Vikram More,9816480894,UPI,ORS Electrolyte,Digestive,2,40,40
+S0153,2026-09-28,Vikram More,9816480894,UPI,Paracetamol 650,Pain & Fever,2,30,0
+S0153,2026-09-28,Vikram More,9816480894,UPI,Antiseptic Liquid,First Aid,3,135,0
+S0154,2026-09-28,Anjali Shinde,9819722233,UPI,Antacid Gel,Digestive,1,110,40
+S0154,2026-09-28,Anjali Shinde,9819722233,UPI,Cetirizine 10 mg,Cold & Allergy,2,22,0
+S0154,2026-09-28,Anjali Shinde,9819722233,UPI,Adhesive Bandages,First Aid,3,45,0
+S0155,2026-09-29,Sneha Kulkarni,9830246633,UPI,Antiseptic Liquid,First Aid,3,135,40
+S0156,2026-09-29,Rohan Deshmukh,9862992312,COD,Cetirizine 10 mg,Cold & Allergy,3,22,40
+S0156,2026-09-29,Rohan Deshmukh,9862992312,COD,Herbal Cough Syrup,Cold & Allergy,2,85,0
+S0156,2026-09-29,Rohan Deshmukh,9862992312,COD,ORS Electrolyte,Digestive,2,40,0
+S0157,2026-09-29,Vikram More,9816480894,COD,Antiseptic Liquid,First Aid,2,135,40
+S0157,2026-09-29,Vikram More,9816480894,COD,Paracetamol 650,Pain & Fever,3,30,0
+S0158,2026-09-29,Anjali Shinde,9819722233,UPI,Paracetamol 650,Pain & Fever,3,30,40
+S0158,2026-09-29,Anjali Shinde,9819722233,UPI,Multivitamin,Vitamins,1,180,0
+S0159,2026-09-30,Kiran Pawar,9881924865,UPI,Antiseptic Liquid,First Aid,1,135,40
+S0160,2026-09-30,Kiran Pawar,9881924865,UPI,Antiseptic Liquid,First Aid,3,135,40
+S0161,2026-09-30,Anjali Shinde,9819722233,UPI,Herbal Cough Syrup,Cold & Allergy,1,85,40
+S0162,2026-09-30,Aarav Patil,9853464097,COD,Antiseptic Liquid,First Aid,1,135,40
+S0163,2026-10-01,Rohan Deshmukh,9862992312,UPI,Antacid Gel,Digestive,3,110,40
+S0163,2026-10-01,Rohan Deshmukh,9862992312,UPI,Herbal Cough Syrup,Cold & Allergy,1,85,0
+S0164,2026-10-01,Sneha Kulkarni,9830246633,UPI,Adhesive Bandages,First Aid,2,45,40
+S0164,2026-10-01,Sneha Kulkarni,9830246633,UPI,ORS Electrolyte,Digestive,1,40,0
+S0165,2026-10-01,Aarav Patil,9853464097,UPI,Paracetamol 650,Pain & Fever,1,30,40
+S0165,2026-10-01,Aarav Patil,9853464097,UPI,Antiseptic Liquid,First Aid,3,135,0
+S0166,2026-10-02,Priya Joshi,9897366946,COD,ORS Electrolyte,Digestive,1,40,40
+S0166,2026-10-02,Priya Joshi,9897366946,COD,Adhesive Bandages,First Aid,3,45,0
+S0167,2026-10-02,Priya Joshi,9897366946,UPI,Digital Thermometer,Devices,2,150,40
+S0167,2026-10-02,Priya Joshi,9897366946,UPI,Herbal Cough Syrup,Cold & Allergy,2,85,0
